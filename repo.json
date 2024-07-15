@@ -1,7 +1,24 @@
-﻿{
+{
     "version": 1,
     "plugins": 
     [
+        {
+            "id": "PlayStation®TV",
+            "description": "<p>Movies, Series, Music and TV.<p>Everything in Just One Place.<p> ",
+            "author": "by PS3™ 4K Pro",
+            "homepage": "https://www.pex-place.com",                                       
+            "title": "BFlix®TV",            
+            "synopsis": "Entertainment System",
+            "version": "1.0",
+            "file": "https://raw.githubusercontent.com/BrianRVP/Bflix/main/playstation_tv.js",
+            "showtimeVersion": "4.8",
+            "type": "ecmascript",
+            "icon": "https://raw.githubusercontent.com/BrianRVP/Bflix/main/logo.png",
+            "category": "tv",
+            "apiversion": 2,
+            "downloadURLoff": "https://github.com/BrianRVP/Bflix/raw/main/Bflix.zip",
+            "popularity": 1
+        },
         {
             "id": "vuePRO",
             "version": "3.3",
@@ -93,4 +110,4 @@
             "popularity": 1
         }
     ]
-}
+        }
