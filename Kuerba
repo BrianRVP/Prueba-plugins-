@@ -1,3 +1,22 @@
 #EXTM3U
-#EXTINF:-1,Kuerba
-https://cutt.ly/kuerba
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cyrxQth/kuerba-icono.png", group-title="--> ENTRA AQUI <--",::: â˜† â˜… Bienvenid@S a KUERBA â˜† â˜… :::
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCGqJXS/actualizacion-fondo.png",â˜…18/07/2024â˜…
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTVLWT1/T3v3.png", ::: TELEVISION :::
+https://github.com/k-lamar09/cds/releases/download/L1br3_M4x/Pce3t3v3.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXtBcG3/posters.jpg",::: COLECCIONES - SAGAS :::
+https://github.com/k-lamar09/Q.erB4/releases/download/Q.erB4_Col3cc10n3s_M3nus/C0L3CC10N3S.M3Nu.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bvvR10/kpel1s.png",::: PELICULAS ORDENADAS ALFABETICAMENTE :::
+https://github.com/k-lamar09/cds/releases/download/L1br3_M4x/4LF4B3T1C4.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxTXkWw/kestrenos.png",::: ESTRENOS 2023 - 2024 :::
+https://github.com/k-lamar09/cds/releases/download/L1br3_M4x/K_3STR3N0S.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58fRb4G/S3r13s.png",::: SERIES :::
+https://github.com/k-lamar09/Q.erB4/releases/download/Q.erB4_01/S3R13S.m3u
