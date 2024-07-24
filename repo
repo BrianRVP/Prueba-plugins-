@@ -18,20 +18,6 @@
             "downloadURL": "https://github.com/BrianRVP/Png-/releases/download/9.0.2/Multi.zip",
             "popularity": 1
         },
-        {
-            "id": "streamian",
-            "version": "3.2",
-            "type": "ecmascript",
-            "author": "BFlix®TV",
-            "m7Version": "7.0.0",
-            "title": "BFlix®TV",
-            "synopsis": "One - Stop for Shows, Movies & TV with Personal Library & Subtitle Plugin Support.",
-            "description": "<p>Scrapes:<p>* 1337x<p>* Internet Archive<p>* YTS<p>* EZTV<p>* i.mjh.nz<p>* Apsattv<p>(Uninstall vuePRO to use)",
-            "homepage": "https://github.com/BrianRVP/Cuantas/tree/untagged-b94cf708717426882ee7",
-            "category": "tv",
-            "downloadURL": "https://github.com/BrianRVP/Cuantas/releases/download/untagged-b94cf708717426882ee7/BFlix.TV.Zip",
-            "icon": "https://raw.githubusercontent.com/BrianRVP/Png-/9.0.2/logo.png",
-            "popularity": 1
-        },
+        
     ]
 }
