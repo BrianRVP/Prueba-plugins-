@@ -13,7 +13,7 @@
             "showtimeVersion": "4.8",
             "type": "ecmascript",
             "icon": "https://raw.githubusercontent.com/BrianRVP/Png-/9.0.2/Multi.png",
-            "category": "tv",
+            "category": "video",
             "apiversion": 2,
             "downloadURL": "https://github.com/BrianRVP/Png-/releases/download/9.0.2/Multi.zip",
             "popularity": 1
@@ -24,15 +24,15 @@
             "type": "ecmascript",
             "author": "F0R3V3R50F7",
             "m7Version": "7.0.0",
-            "title": "Streamian (Uninstall vuePRO to use)",
+            "title": "BFlix®TV",
             "synopsis": "One - Stop for Shows, Movies & TV with Personal Library & Subtitle Plugin Support.",
             "description": "<p>Scrapes:<p>* 1337x<p>* Internet Archive<p>* YTS<p>* EZTV<p>* i.mjh.nz<p>* Apsattv<p>(Uninstall vuePRO to use)",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-streamian/",
             "category": "video",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-streamian/raw/main/streamian_stable.zip",
-            "icon": "https://raw.githubusercontent.com/dajesusmodz/m7-plugin-streamian/main/logo.png",
+            "downloadURL": "https://github.com/BrianRVP/Cuantas/releases/download/untagged-b94cf708717426882ee7/BFlix.TV.Zip",
+            "icon": "https://raw.githubusercontent.com/BrianRVP/Png-/main/logo.png",
             "popularity": 1
-        },
+        }
         
     ]
 }
